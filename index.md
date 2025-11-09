@@ -1,7 +1,7 @@
 # VOLIA Support
 
 ## Contact Us
-For support, questions, or feedback, please email: **support@VOLIA.app**
+For support, questions, or feedback, please email: dimitar.g.mihaylov@icloud.com
 (or replace with your actual email)
 
 ## Frequently Asked Questions
@@ -29,8 +29,8 @@ Email us at: support@VOLIA.app
 
 ## Privacy
 VOLIA does not collect any user data. All workouts are stored locally on your device.
-[Read our full Privacy Policy](./privacy.html)
+https://dmihaylov4.github.io/trak-privacy/
 
 ---
 
-Made with 💪 by [Your Name]
+
