@@ -37,7 +37,7 @@ We may update this privacy policy from time to time. Changes will be posted on t
 
 ## Contact Us
 If you have questions about this privacy policy, contact us at:
-**support@VOLIA.app**
+dimitar.g.mihaylov@icloud.com
 
 ---
 
