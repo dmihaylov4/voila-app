@@ -1,7 +1,7 @@
-# WRKT Support
+# VOLIA Support
 
 ## Contact Us
-For support, questions, or feedback, please email: **support@wrkt.app**
+For support, questions, or feedback, please email: **support@VOLIA.app**
 (or replace with your actual email)
 
 ## Frequently Asked Questions
@@ -24,11 +24,11 @@ Please email us with:
 We'll fix it ASAP!
 
 ## Feature Requests
-Have an idea to make WRKT better? We'd love to hear it!
-Email us at: support@wrkt.app
+Have an idea to make VOLIA better? We'd love to hear it!
+Email us at: support@VOLIA.app
 
 ## Privacy
-WRKT does not collect any user data. All workouts are stored locally on your device.
+VOLIA does not collect any user data. All workouts are stored locally on your device.
 [Read our full Privacy Policy](./privacy.html)
 
 ---
